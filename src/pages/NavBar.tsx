@@ -5,7 +5,7 @@ const NavBar: FC = () => {
   return (
     <ul>
       <li>
-        <NavLink to="/login">Login</NavLink>
+        <NavLink to="/dashboard">Login</NavLink>
       </li>
     </ul>
   );
